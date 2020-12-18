@@ -50,13 +50,15 @@
 
 #### Python
 * [Python Tutorial](https://github.com/appbrewery/100-days-of-python) - Python bootcamp
-* [fastapi](https://github.com/tiangolo/fastapi) -Python 3.6 web framework
+* [fastapi](https://github.com/tiangolo/fastapi) - Python 3.6 web framework
+* [django](https://github.com/django/django)
 
 #### Server Stuffs
 * [System Design](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - System Design cheatsheet
 * [Socket IO](https://github.com/socketio/socket.io) - Socket IO for realtime bidirectional event-based communication.
 * [public APIs](https://github.com/public-apis/public-apis) - List of APIs available to public.
 * [public APIs](https://github.com/n0shake/Public-APIs) - Another list of public APIs
+* [Slate](https://github.com/slatedocs/slate) - for api documentation
 
 #### Tools
 * [Gitignore](https://github.com/github/gitignore) - .gitignore for different type of projects
