@@ -50,6 +50,7 @@
 
 #### Python
 * [Python Tutorial](https://github.com/appbrewery/100-days-of-python) - Python bootcamp
+* [fastapi](https://github.com/tiangolo/fastapi) -Python 3.6 web framework
 
 #### Server Stuffs
 * [System Design](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - System Design cheatsheet
