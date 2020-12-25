@@ -21,6 +21,9 @@
 * [PermissionDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Annotation-based API to handle runtime permissions
 * [Leakcanary](https://github.com/square/leakcanary) - Memory leak detection for android
 * [Dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin) - Gradle plugin to report the number of method references in your APK on every build.
+* [Roboelectric](https://github.com/robolectric/robolectric) - Android unit testing framework
+* [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - Mockito in kotlin
+* [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver) - Sample mocking webserver with OkHttp 
 
 #### iOS
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
