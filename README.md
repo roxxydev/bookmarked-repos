@@ -47,6 +47,7 @@
 * [Objection.js](https://github.com/Vincit/objection.js) - SQL ORM
 * [bookshelf](https://github.com/bookshelf/bookshelf) - Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js.
 * [AJV](https://github.com/ajv-validator/ajv) - JSON schema validator
+* [Apisauce](https://github.com/skellock/apisauce) - low-fat wrapper for the amazing axios http client library
 
 #### Go
 * [echo](https://github.com/labstack/echo) - web framework written in GoLang
