@@ -39,6 +39,7 @@
 * [standard](https://github.com/standard/standard) - Javascript style guide
 * [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript) - Javascript style guide used by Airbnb
 * [javscript concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
+* [inversifyJS](https://github.com/inversify/InversifyJS) - Dependency injection in javascript
 
 #### Node.js
 * [PM2](https://github.com/Unitech/pm2) - process manager
@@ -56,6 +57,10 @@
 * [Python Tutorial](https://github.com/appbrewery/100-days-of-python) - Python bootcamp
 * [fastapi](https://github.com/tiangolo/fastapi) - Python 3.6 web framework
 * [django](https://github.com/django/django)
+
+#### React
+* [valtio](https://github.com/pmndrs/valtio) - React proxy-state manager
+
 
 #### Server Stuffs
 * [System Design](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - System Design cheatsheet
